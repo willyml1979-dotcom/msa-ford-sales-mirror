@@ -1,7 +1,7 @@
 {
   "dealership": "Msa Ford Sales",
-  "generated_at": "2026-09-25T09:29:12",
-  "vehicle_count": 48,
+  "generated_at": "2026-09-26T10:04:46",
+  "vehicle_count": 47,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -11,7 +11,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/a8496ce193f6.html",
       "source_url": "https://msaford.com/new/2026-ford-bronco-sport/",
       "dealer_url": "https://msaford.com/new/2026-ford-bronco-sport/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:12:08",
+      "last_verified": "2026-09-26T10:02:10",
       "condition": "used"
     },
     {
@@ -20,7 +20,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/4ce65ea509bd.html",
       "source_url": "https://msaford.com/new/2026-ford-bronco/",
       "dealer_url": "https://msaford.com/new/2026-ford-bronco/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:12:15",
+      "last_verified": "2026-09-26T10:02:18",
       "condition": "used"
     },
     {
@@ -29,7 +29,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/0e51544692ea.html",
       "source_url": "https://msaford.com/new/2026-ford-f-150/",
       "dealer_url": "https://msaford.com/new/2026-ford-f-150/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:12:31",
+      "last_verified": "2026-09-26T10:02:37",
       "condition": "used"
     },
     {
@@ -38,7 +38,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/011a44557bf0.html",
       "source_url": "https://msaford.com/new/2026-ford-maverick/",
       "dealer_url": "https://msaford.com/new/2026-ford-maverick/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:12:41",
+      "last_verified": "2026-09-26T10:02:47",
       "condition": "used"
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/1564d7375ec2.html",
       "source_url": "https://msaford.com/view/used-2017-dodge-journey-1910789/",
       "dealer_url": "https://msaford.com/view/used-2017-dodge-journey-1910789/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:13:20",
+      "last_verified": "2026-09-26T10:03:28",
       "price": 10980.0,
       "price_currency": "CAD",
       "odometer_km": 97426,
@@ -61,7 +61,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/fb85416f9b24.html",
       "source_url": "https://msaford.com/view/used-2017-ram-1500-1881230/",
       "dealer_url": "https://msaford.com/view/used-2017-ram-1500-1881230/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:13:30",
+      "last_verified": "2026-09-26T10:03:38",
       "price": 34980.0,
       "price_currency": "CAD",
       "odometer_km": 85003,
@@ -74,7 +74,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/9932dde12dc6.html",
       "source_url": "https://msaford.com/view/used-2018-volkswagen-golf-1918033/",
       "dealer_url": "https://msaford.com/view/used-2018-volkswagen-golf-1918033/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:13:38",
+      "last_verified": "2026-09-26T10:03:47",
       "price": 11900.0,
       "price_currency": "CAD",
       "odometer_km": 166329,
@@ -87,7 +87,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/b1ede8be42ae.html",
       "source_url": "https://msaford.com/view/used-2019-ford-f-150-1904091/",
       "dealer_url": "https://msaford.com/view/used-2019-ford-f-150-1904091/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:13:46",
+      "last_verified": "2026-09-26T10:03:55",
       "price": 39980.0,
       "price_currency": "CAD",
       "odometer_km": 144545,
@@ -100,7 +100,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/abd745018049.html",
       "source_url": "https://msaford.com/view/used-2019-ford-transit-connect-van-1913917/",
       "dealer_url": "https://msaford.com/view/used-2019-ford-transit-connect-van-1913917/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:13:55",
+      "last_verified": "2026-09-26T10:04:03",
       "price": 27980.0,
       "price_currency": "CAD",
       "odometer_km": 83522,
@@ -113,7 +113,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/56a4b7cd1ad6.html",
       "source_url": "https://msaford.com/view/used-2022-ford-explorer-1904089/",
       "dealer_url": "https://msaford.com/view/used-2022-ford-explorer-1904089/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:14:04",
+      "last_verified": "2026-09-26T10:04:13",
       "price": 45980.0,
       "price_currency": "CAD",
       "odometer_km": 59785,
@@ -126,7 +126,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/d2355274638d.html",
       "source_url": "https://msaford.com/view/used-2022-honda-civic-sedan-1879304/",
       "dealer_url": "https://msaford.com/view/used-2022-honda-civic-sedan-1879304/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:14:12",
+      "last_verified": "2026-09-26T10:04:22",
       "price": 27980.0,
       "price_currency": "CAD",
       "odometer_km": 56219,
@@ -139,7 +139,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/881d7c3af6f6.html",
       "source_url": "https://msaford.com/view/used-2023-ford-bronco-1904087/",
       "dealer_url": "https://msaford.com/view/used-2023-ford-bronco-1904087/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:14:21",
+      "last_verified": "2026-09-26T10:04:32",
       "price": 53900.0,
       "price_currency": "CAD",
       "odometer_km": 58226,
@@ -152,7 +152,7 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/c300413d80e9.html",
       "source_url": "https://msaford.com/view/used-2023-ford-f-150-1804108/",
       "dealer_url": "https://msaford.com/view/used-2023-ford-f-150-1804108/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:14:30",
+      "last_verified": "2026-09-26T10:04:41",
       "price": 57800.0,
       "price_currency": "CAD",
       "odometer_km": 64424,
@@ -247,19 +247,6 @@
       "price": 79900.0,
       "price_currency": "CAD",
       "odometer_km": 2758,
-      "condition": "used"
-    },
-    {
-      "name": "Used2025 Ford Transit Passenger Wagon XL",
-      "vin": "1FBAX9C80SKA00114",
-      "stock": "UTS0011",
-      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/67dde8cc1b29.html",
-      "source_url": "https://msaford.com/view/used-2025-ford-transit-passenger-wagon-1922109/",
-      "dealer_url": "https://msaford.com/view/used-2025-ford-transit-passenger-wagon-1922109/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:15:38",
-      "price": 79900.0,
-      "price_currency": "CAD",
-      "odometer_km": 2262,
       "condition": "used"
     },
     {
