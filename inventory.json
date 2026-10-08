@@ -1,6 +1,6 @@
 {
   "dealership": "Msa Ford Sales",
-  "generated_at": "2026-09-26T10:28:55",
+  "generated_at": "2026-10-08T14:41:01",
   "vehicle_count": 47,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,9 @@
       "source_url": "https://msaford.com/new/2026-ford-bronco-sport/",
       "dealer_url": "https://msaford.com/new/2026-ford-bronco-sport/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:02:10",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco",
@@ -21,7 +23,9 @@
       "source_url": "https://msaford.com/new/2026-ford-bronco/",
       "dealer_url": "https://msaford.com/new/2026-ford-bronco/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:02:18",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150",
@@ -30,7 +34,9 @@
       "source_url": "https://msaford.com/new/2026-ford-f-150/",
       "dealer_url": "https://msaford.com/new/2026-ford-f-150/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:02:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverick",
@@ -39,7 +45,9 @@
       "source_url": "https://msaford.com/new/2026-ford-maverick/",
       "dealer_url": "https://msaford.com/new/2026-ford-maverick/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:02:47",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2017 Dodge Journey Canada Value Pkg",
@@ -52,7 +60,9 @@
       "price": 10980.0,
       "price_currency": "CAD",
       "odometer_km": 97426,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2017 Ram 1500 Limited 4WD Crew Cab",
@@ -65,7 +75,9 @@
       "price": 34980.0,
       "price_currency": "CAD",
       "odometer_km": 85003,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2018 Volkswagen Golf Trendline Manual",
@@ -78,7 +90,9 @@
       "price": 11900.0,
       "price_currency": "CAD",
       "odometer_km": 166329,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2019 Ford F-150 Limited 4WD SuperCrew 5.5' Box",
@@ -91,7 +105,9 @@
       "price": 39980.0,
       "price_currency": "CAD",
       "odometer_km": 144545,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2019 Ford Transit Connect Van XLT w/Dual Sliding Doors",
@@ -104,7 +120,9 @@
       "price": 27980.0,
       "price_currency": "CAD",
       "odometer_km": 83522,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2022 Ford Explorer ST 4WD - 3.0L EcoBoost Engine",
@@ -117,7 +135,9 @@
       "price": 45980.0,
       "price_currency": "CAD",
       "odometer_km": 59785,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2022 Honda Civic Sedan LX",
@@ -130,7 +150,9 @@
       "price": 27980.0,
       "price_currency": "CAD",
       "odometer_km": 56219,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2023 Ford Bronco Badlands 4x4",
@@ -143,7 +165,9 @@
       "price": 53900.0,
       "price_currency": "CAD",
       "odometer_km": 58226,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2023 Ford F-150 Lariat 4WD SuperCrew 5.5' Box - FX4 Package - B&O 18 Speaker Surround Sound",
@@ -156,7 +180,9 @@
       "price": 57800.0,
       "price_currency": "CAD",
       "odometer_km": 64424,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2023 Hyundai Tucson Hybrid Ultimate AWD",
@@ -169,7 +195,9 @@
       "price": 33900.0,
       "price_currency": "CAD",
       "odometer_km": 42952,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2023 Kia Forte GT Limited Heated Front Seats - Premium Tech",
@@ -182,7 +210,9 @@
       "price": 19990.0,
       "price_currency": "CAD",
       "odometer_km": 57706,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2023 Nissan Pathfinder SL 4WD",
@@ -195,7 +225,9 @@
       "price": 38900.0,
       "price_currency": "CAD",
       "odometer_km": 81862,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2023 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
@@ -208,7 +240,9 @@
       "price": 28980.0,
       "price_currency": "CAD",
       "odometer_km": 71674,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2024 Ram 1500 Tradesman 4x4 Crew Cab 5'7\" Box - 5.7L Hemi v8 eTorque Hybrid - Soft-Top Tonneau Cover",
@@ -221,7 +255,9 @@
       "price": 44980.0,
       "price_currency": "CAD",
       "odometer_km": 32462,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2024 Toyota 4Runner 4WD",
@@ -234,7 +270,9 @@
       "price": 55900.0,
       "price_currency": "CAD",
       "odometer_km": 56788,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2025 Ford Transit Passenger Wagon XL T-350 148\" Med Roof AWD",
@@ -247,7 +285,9 @@
       "price": 79900.0,
       "price_currency": "CAD",
       "odometer_km": 2758,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2025 Lincoln Navigator L Reserve 4x4 - Heated Leather Seats w/ Massage - Power Liftgate - Panoramic Sunroof",
@@ -260,7 +300,9 @@
       "price": 139900.0,
       "price_currency": "CAD",
       "odometer_km": 21762,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2026 Ford Explorer ST-Line AWD",
@@ -273,7 +315,9 @@
       "price": 49990.0,
       "price_currency": "CAD",
       "odometer_km": 11650,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Used2026 Mercedes-Benz GLC AMG GLC 63 S E Performance AMG Night Package Plus",
@@ -286,7 +330,9 @@
       "price": 134995.0,
       "price_currency": "CAD",
       "odometer_km": 2195,
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco Sport",
@@ -295,7 +341,9 @@
       "source_url": "https://msaford.com/new/2026-ford-bronco-sport/",
       "dealer_url": "https://msaford.com/new/2026-ford-bronco-sport/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:26:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026FordBronco",
@@ -304,7 +352,9 @@
       "source_url": "https://msaford.com/new/2026-ford-bronco/",
       "dealer_url": "https://msaford.com/new/2026-ford-bronco/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:26:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150",
@@ -313,7 +363,9 @@
       "source_url": "https://msaford.com/new/2026-ford-f-150/",
       "dealer_url": "https://msaford.com/new/2026-ford-f-150/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:26:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverick",
@@ -322,7 +374,9 @@
       "source_url": "https://msaford.com/new/2026-ford-maverick/",
       "dealer_url": "https://msaford.com/new/2026-ford-maverick/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:26:57",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2025 Ford Bronco Badlands 4 Door- 4 Wheel Drive- Convertible Hard Top- Heated Seats",
@@ -334,7 +388,9 @@
       "last_verified": "2026-09-26T10:27:35",
       "price": 82140.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2025 Ford Bronco Badlands 4 Door 4x4 Manual",
@@ -346,7 +402,9 @@
       "last_verified": "2026-09-26T10:27:45",
       "price": 73952.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2025 Ford Escape PHEV 2WD-Heated seats- Heated steering wheel- Remote engine start",
@@ -358,7 +416,9 @@
       "last_verified": "2026-09-26T10:27:56",
       "price": 43019.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2025 Ford Escape ST-Line AWD- Heated seats , Heated steering wheel, Keyless entry",
@@ -370,7 +430,9 @@
       "last_verified": "2026-09-26T10:28:04",
       "price": 35749.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2025 Ford F-150 Platinum 4WD- Super Crew- 5.5 Foot Box- Heated and Cooled Seats",
@@ -382,7 +444,9 @@
       "last_verified": "2026-09-26T10:28:14",
       "price": 94943.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2025 Ford F-150 XL 2WD SuperCrew 2.7L V6 Ecoboost",
@@ -394,7 +458,9 @@
       "last_verified": "2026-09-26T10:28:23",
       "price": 50519.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2025 Ford Ranger LARIAT Heated Seats- Leather heated Steering Wheel- 4WD -2.7L Ecoboost",
@@ -406,7 +472,9 @@
       "last_verified": "2026-09-26T10:28:31",
       "price": 58171.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Bronco Sport Badlands Advanced 4x4 - Tech Pkg. - Power Moonroof",
@@ -418,7 +486,9 @@
       "last_verified": "2026-09-26T10:28:41",
       "price": 49720.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Explorer Tremor 4WD 3.0L Ecoboost V6 - 6 Seater",
@@ -430,7 +500,9 @@
       "last_verified": "2026-09-26T10:28:52",
       "price": 67400.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Explorer ST 4WD 3.0L Ecoboost V6 - 6 Seater",
@@ -442,7 +514,9 @@
       "last_verified": "2026-09-25T09:27:29",
       "price": 67544.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Explorer ST 4WD 3.0L Ecoboost V6 - 7 Seater",
@@ -454,7 +528,9 @@
       "last_verified": "2026-09-25T09:27:38",
       "price": 67161.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Explorer ST 4WD 3.0L Ecoboost V6 - 7 Seater",
@@ -466,7 +542,9 @@
       "last_verified": "2026-09-25T09:27:48",
       "price": 67544.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford F-150 XLT 4WD - 3.5L V6 Ecoboost - SuperCrew",
@@ -478,7 +556,9 @@
       "last_verified": "2026-09-25T09:27:58",
       "price": 70284.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Super Duty F-350 SRW XL 4WD Crew Cab 8' Box",
@@ -490,7 +570,9 @@
       "last_verified": "2026-09-25T09:28:07",
       "price": 82319.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Super Duty F-350 SRW LARIAT 4WD - Crew Cab - 8' Box – 6.7L Diesel Engine",
@@ -502,7 +584,9 @@
       "last_verified": "2026-09-25T09:28:16",
       "price": 113557.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Super Duty F-350 SRW LARIAT 4x4 - 6.7L V8 Diesel - Ultimate + Chrome Package - 6.75' Box",
@@ -514,7 +598,9 @@
       "last_verified": "2026-09-25T09:28:26",
       "price": 106453.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Super Duty F-350 SRW LARIAT 4x4 - 6.7L V8 Diesel - FX4 + Chrome Package - 6.75' Box",
@@ -526,7 +612,9 @@
       "last_verified": "2026-09-25T09:28:36",
       "price": 100468.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Super Duty F-350 SRW LARIAT 4x4 - 6.7L Diesel V8 - FX4 Premium + Chrome Package - 6.75' Box",
@@ -538,7 +626,9 @@
       "last_verified": "2026-09-25T09:28:46",
       "price": 103285.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Super Duty F-350 SRW XLT 4x4 - 6.7L Diesel V8 - Crew Cab - 8' Box",
@@ -550,7 +640,9 @@
       "last_verified": "2026-09-25T09:28:54",
       "price": 84661.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "New2026 Ford Super Duty F-350 SRW LARIAT 4x4 - 6.7L Diesel V8 - SuperCrew - Ultimate + Chrome + FX4 Pkg. - 6.75' Box",
@@ -562,7 +654,9 @@
       "last_verified": "2026-09-25T09:29:02",
       "price": 106509.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     }
   ]
 }
