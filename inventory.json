@@ -1,7 +1,7 @@
 {
   "dealership": "Msa Ford Sales",
-  "generated_at": "2026-10-26T05:14:17",
-  "vehicle_count": 44,
+  "generated_at": "2026-11-16T16:34:23",
+  "vehicle_count": 46,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -208,7 +208,7 @@
       "vin": "1FTER4KP2SLE67242",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/24168db05da4.html",
       "condition": "new",
-      "price": 58247.0,
+      "price": 59135.0,
       "price_currency": "CAD"
     },
     {
@@ -224,11 +224,19 @@
       "condition": "new"
     },
     {
+      "name": "New2026 Ford Bronco Sport Outer Banks AWD - Tech Pkg. - Power Moonroof",
+      "vin": "3FMCR9CN2TRE19305",
+      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/12ab2cc4f3d0.html",
+      "condition": "new",
+      "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2026 Ford Explorer Tremor 4WD 3.0L Ecoboost V6 - 6 Seater",
       "vin": "1FMWK8JC9TGA04342",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/89cc1c1981e0.html",
       "condition": "new",
-      "price": 71908.0,
+      "price": 65907.0,
       "price_currency": "CAD"
     },
     {
@@ -236,7 +244,7 @@
       "vin": "1FMWK8GCXTGA25692",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/f5c7ea635498.html",
       "condition": "new",
-      "price": 70845.0,
+      "price": 65846.0,
       "price_currency": "CAD"
     },
     {
@@ -244,7 +252,7 @@
       "vin": "1FMWK8GC9TGA41303",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/f48bc6e9e5d2.html",
       "condition": "new",
-      "price": 70429.0,
+      "price": 65433.0,
       "price_currency": "CAD"
     },
     {
@@ -252,16 +260,14 @@
       "vin": "1FMWK8GC3TGA82736",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/82df462f6b64.html",
       "condition": "new",
-      "price": 70845.0,
+      "price": 65846.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New2026 Ford F-150 XLT 4WD - 3.5L V6 Ecoboost - SuperCrew - Black Pkg.",
-      "vin": "1FTFW3L88TKD36774",
+      "name": "Search",
+      "vin": "1FTFW3L85TKD37543",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/464e13b81119.html",
-      "condition": "new",
-      "price": 69560.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "New2026 Ford Maverick LARIAT",
@@ -276,7 +282,7 @@
       "vin": "1FT8W3BT3TEC19875",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/7d44c22c57ca.html",
       "condition": "new",
-      "price": 83296.0,
+      "price": 81391.0,
       "price_currency": "CAD"
     },
     {
@@ -284,7 +290,7 @@
       "vin": "1FT8W3BM1TEC55671",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/db6d3835a785.html",
       "condition": "new",
-      "price": 117226.0,
+      "price": 114606.0,
       "price_currency": "CAD"
     },
     {
@@ -292,7 +298,7 @@
       "vin": "1FT8W3BT2TED67743",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/2a76db2226ae.html",
       "condition": "new",
-      "price": 109574.0,
+      "price": 107115.0,
       "price_currency": "CAD"
     },
     {
@@ -300,7 +306,7 @@
       "vin": "1FT8W3BT8TED77970",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/ef9a2d384d43.html",
       "condition": "new",
-      "price": 103112.0,
+      "price": 100790.0,
       "price_currency": "CAD"
     },
     {
@@ -308,7 +314,7 @@
       "vin": "1FT8W3BT3TED67752",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/269d8bfe98b0.html",
       "condition": "new",
-      "price": 106161.0,
+      "price": 103774.0,
       "price_currency": "CAD"
     },
     {
@@ -316,7 +322,7 @@
       "vin": "1FT8W3BT7TED76132",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/abb9cbb48fd9.html",
       "condition": "new",
-      "price": 85895.0,
+      "price": 83935.0,
       "price_currency": "CAD"
     },
     {
@@ -340,6 +346,14 @@
       "vin": "1FT8W3BT3TEC19875",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/6a1fecccc032.html",
       "condition": "new"
+    },
+    {
+      "name": "New2026 Ford Super Duty F-350 SRW XLT 4WD Crew Cab 6.75' Box - FX4 Pkg. - 5th Wheel Prep Pkg. - Tailgate Step - Spray-in Bedliner",
+      "vin": "1FT8W3BT5TED79577",
+      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/new/266c63de72e1.html",
+      "condition": "new",
+      "price": 84191.0,
+      "price_currency": "CAD"
     }
   ]
 }
