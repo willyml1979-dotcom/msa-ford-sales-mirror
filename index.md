@@ -1,6 +1,6 @@
 # MSA Ford Sales
 
- dealership in Abbotsford. AI-readable inventory mirror, about 46 vehicles.
+ dealership in Abbotsford. AI-readable inventory mirror, about 47 vehicles.
 
 - Official website: https://msaford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/

@@ -1,7 +1,7 @@
 {
   "dealership": "Msa Ford Sales",
-  "generated_at": "2026-11-16T16:34:23",
-  "vehicle_count": 46,
+  "generated_at": "2026-11-17T01:01:47",
+  "vehicle_count": 47,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,14 +14,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2018 Ford Super Duty F-350 SRW XLT 4WD Crew Cab 6.75' Box",
-      "vin": "1FT8W3BT0JEC72594",
-      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/bc34ef0819ba.html",
-      "condition": "used",
-      "price": 53980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Used2019 Ford Transit Connect Van XLT w/Dual Sliding Doors",
       "vin": "NM0LS7T27K1424279",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/abd745018049.html",
@@ -30,15 +22,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2020 Subaru Outback Touring AWD",
-      "vin": "4S4BTDDC6L3133968",
-      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/942498e8bdfc.html",
+      "name": "Used2021 Chrysler Pacifica Hybrid Pinnacle 2WD",
+      "vin": "2C4RC1N7XMR541353",
+      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/a92c8a88845d.html",
       "condition": "used",
-      "price": 28980.0,
+      "price": 33980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2021 Ford F-150 XLT",
+      "name": "Used2021 Ford F-150 XLT 4WD SuperCrew 5.5' Box",
       "vin": "1FTFW1E81MKE14556",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/610b4cd79b44.html",
       "condition": "used",
@@ -50,23 +42,15 @@
       "vin": "1FMEE5BP5NLA74398",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/2817a92c5682.html",
       "condition": "used",
-      "price": 45900.0,
+      "price": 45980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2022 Ford F-150 Lightning LARIAT",
-      "vin": "1FTVW1EV7NWG09430",
-      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/20557da129c2.html",
+      "name": "Used2023 Ford Explorer Timberline 4WD",
+      "vin": "1FMSK8JH7PGA43477",
+      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/e85a5838e347.html",
       "condition": "used",
-      "price": 59980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Used2023 Ford Bronco Badlands",
-      "vin": "1FMDE5CP2PLB42296",
-      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/83ed5eff1a8b.html",
-      "condition": "used",
-      "price": 48980.0,
+      "price": 47980.0,
       "price_currency": "CAD"
     },
     {
@@ -86,11 +70,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2023 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION",
+      "name": "Used2023 Volkswagen Tiguan Comfortline R-Line Black Edition 4MOTION - Digital Cockpit Pro - Remote Start - Dual Zone Climate Control",
       "vin": "3VV8B7AX2PM045273",
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/7ca251a95f64.html",
       "condition": "used",
       "price": 28980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2024 Ford Escape Active AWD",
+      "vin": "1FMCU9GN6RUA88819",
+      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/9d0bb2afc3ef.html",
+      "condition": "used",
+      "price": 28908.0,
       "price_currency": "CAD"
     },
     {
@@ -118,11 +110,27 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2025 Lincoln Navigator L Reserve 4x4 - Heated Leather Seats w/ Massage - Power Liftgate - Panoramic Sunroof",
-      "vin": "5LMJJ3LG6SEL03360",
-      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/7115a059d3ad.html",
+      "name": "Used2025 Ford Transit Passenger Wagon XL",
+      "vin": "1FBAX9C80SKA00114",
+      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/67dde8cc1b29.html",
       "condition": "used",
-      "price": 109000.0,
+      "price": 76900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025 MINI Countryman Cooper S ALL4",
+      "vin": "WMZ23GA08S7T15243",
+      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/e17617706050.html",
+      "condition": "used",
+      "price": 36680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2026 Ford F-150 Tremor  4WD SuperCrew 5.5' Box - Pro Access Tailgate - Mobile Office",
+      "vin": "1FTFW4L84TFA44828",
+      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/9f20a32e4bcf.html",
+      "condition": "used",
+      "price": 89900.0,
       "price_currency": "CAD"
     },
     {
