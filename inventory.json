@@ -1,7 +1,7 @@
 {
   "dealership": "Msa Ford Sales",
-  "generated_at": "2026-11-17T17:36:29",
-  "vehicle_count": 48,
+  "generated_at": "2026-11-17T21:24:01",
+  "vehicle_count": 47,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -27,14 +27,6 @@
       "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/a92c8a88845d.html",
       "condition": "used",
       "price": 33980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Used2021 Ford F-150 XLT 4WD SuperCrew 5.5' Box",
-      "vin": "1FTFW1E81MKE14556",
-      "url": "https://willyml1979-dotcom.github.io/msa-ford-sales-mirror/used/610b4cd79b44.html",
-      "condition": "used",
-      "price": 32980.0,
       "price_currency": "CAD"
     },
     {
